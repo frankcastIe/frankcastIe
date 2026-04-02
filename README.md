@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://i.ibb.co/Xr5Sf83K/Screenshot-20260402-014950-Discord.jpg" alt="Description of image" width="100"/>
+
+
 <!--
 **frankcastIe/frankcastIe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
